@@ -15,9 +15,12 @@ Proteins are composed of sequences of amino acids, and their structure plays a c
 
 ## 📊 Evaluation Metrics
 
-| Metric   | Value  |
-| -------- | ------ |
-| Accuracy | 88.09% |
+| Metric    | Value  |
+| --------- | ------ |
+| Accuracy  | 88.09% |
+| Precision | 87.50% |
+| Recall    | 88.09% |
+| F1-Score  | 87.54% |
 
 ## 🧪 Dataset
 
