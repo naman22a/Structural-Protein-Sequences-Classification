@@ -15,14 +15,9 @@ Proteins are composed of sequences of amino acids, and their structure plays a c
 
 ## 📊 Evaluation Metrics
 
-| Metric    | Value  |
-| --------- | ------ |
-| Accuracy  | 88.79% |
-| Precision | 88.39% |
-| Recall    | 88.79% |
-| F1-Score  | 88.45% |
-
-> 🔑 Note: The model is still under development and may benefit from further hyperparameter tuning, more data, and advanced embeddings (e.g., ESM, ProtBert).
+| Metric   | Value  |
+| -------- | ------ |
+| Accuracy | 88.09% |
 
 ## 🧪 Dataset
 
@@ -36,8 +31,7 @@ Proteins are composed of sequences of amino acids, and their structure plays a c
 -   NumPy
 -   Pandas
 -   Scikit-learn
--   Keras
--   TensorFlow
+-   PyTorch
 
 ## 🚀 How to Run (using Anaconda)
 
