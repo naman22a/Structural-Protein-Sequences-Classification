@@ -64,12 +64,6 @@ conda env create -f environment.yml
 jupyter notebook
 ```
 
-## 🧭 Future Work
-
--   Improve classification performance using pretrained protein models (e.g., ESM, ProtT5)
--   Experiment with attention-based models (e.g., Transformer, BERT)
--   Perform interpretability analysis on model predictions
-
 ## 📫 Stay in touch
 
 -   Author - [Naman Arora](https://namanarora.vercel.app)
