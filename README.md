@@ -49,7 +49,7 @@ This helps in identifying which parts of the protein sequences contribute the mo
 | Naive Bayes         | 87.93%   | 88.17%    | 87.93% | 87.93%   |
 | XGBoost             | 87.73%   | 87.71%    | 87.73% | 87.29%   |
 | Logistic Regression | 89.97%   | 90.69%    | 89.97% | 90.04%   |
-| KNN                 | 90.01%   | 91.23%    | 90.01% | 89.52%   |
+| KNN                 | 90.00%   | 91.23%    | 90.00% | 89.52%   |
 
 ---
 
